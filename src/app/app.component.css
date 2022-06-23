@@ -1,0 +1,15 @@
+.links{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+selected{
+    color: red;
+}
